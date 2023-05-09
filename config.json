@@ -1,0 +1,46 @@
+{
+    "MaxPrice": null,
+    "webhook": {
+        "enabled": false,
+        "url": ""
+    },
+    "items": {
+        "start": null,
+        "item_list": [
+            
+        ]
+    },
+    "accounts": [
+        {
+            "cookie":""
+        }
+    ],
+    "rooms": {
+        "enabled": false,
+        "username": "Username",
+        "room_code": "",
+        "item_setup": {
+            "max_price": 0,
+            "max_buys": null
+        }
+    },
+    "proxy": {
+        "enabled": false,
+        "timeout_ms": 1000,
+        "proxy_list": "proxies.txt",
+        "authentication": {
+            "enabled": false,
+            "username": "",
+            "password": ""
+        }
+    },
+    "theme": {
+        "name": "floyddo_theme",
+        "wait_time": 1
+    },
+    "discord": {
+        "enabled": false,
+        "prefix": "$",
+        "token": ""
+    }
+}
