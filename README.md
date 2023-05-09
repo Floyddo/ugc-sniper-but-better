@@ -1,9 +1,9 @@
 # Ugc-Sniper-But-Better
 the better one out there (yet again) 
 
-Original: https://github.com/efenatuyo/ugc-sniper  
+**Original:** https://github.com/efenatuyo/ugc-sniper  
 
-Server: https://discord.com/invite/fxxMmnGB95 (mine not original server)  
+**Server:** https://discord.com/invite/fxxMmnGB95 (mine not original server)  
 (If you need support ping **Floyddo#1786** in xolo server, SERVER IS NOT FOR SUPPORT!)  
 
 ## Functions (original)
